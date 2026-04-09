@@ -1,6 +1,7 @@
 name: Continuous integration example
 
-
+on:
+  pull_request:
 
 jobs:
 
